@@ -8,6 +8,7 @@
 		<objective>her</objective>
 		<possessive>her</possessive>
 		<commonalityFemale>1</commonalityFemale>
+		<commonalityNone>0.1</commonalityNone>
 	</PronounsMod.PronounDef>
 	
 	<PronounsMod.PronounDef>
@@ -17,6 +18,7 @@
 		<objective>him</objective>
 		<possessive>his</possessive>
 		<commonalityMale>1</commonalityMale>
+		<commonalityNone>0.1</commonalityNone>
 	</PronounsMod.PronounDef>
 	
 	<PronounsMod.PronounDef>
@@ -28,6 +30,7 @@
 		<verbForm>Plural</verbForm>
 		<commonalityFemale>0.1</commonalityFemale>
 		<commonalityMale>0.1</commonalityMale>
+		<commonalityNone>1</commonalityNone>
 	</PronounsMod.PronounDef>
 	
 	<PronounsMod.PronounDef>

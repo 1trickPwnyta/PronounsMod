@@ -26,7 +26,9 @@ namespace PronounsMod
             "finds", "find",
             "tells", "tell",
             "asks", "ask",
-            "works", "work"
+            "works", "work",
+            "says", "say",
+            "begs", "beg"
         };
 
         public static string Pluralize(string s)

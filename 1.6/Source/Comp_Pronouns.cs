@@ -16,7 +16,7 @@ namespace PronounsMod
             Comp_Pronouns comp = pawn.TryGetComp<Comp_Pronouns>();
             if (comp != null)
             {
-                DefDatabase<PronounDef>.AllDefsListForReading.TryRandomElementByWeight(p => pawn.gender == Gender.Female ? p.commonalityFemale : p.commonalityMale, out PronounDef result);
+                DefDatabase<PronounDef>.AllDefsListForReading.TryRandomElementByWeight(p => p.GetCommonality(pawn.gender), out PronounDef result);
                 if (result != null)
                 {
                     comp.SetPronouns(result);

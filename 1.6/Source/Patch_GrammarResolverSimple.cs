@@ -11,6 +11,11 @@ namespace PronounsMod
     {
         public static void Prefix(ref TaggedString str, List<string> argsLabelsArg, List<object> argsObjectsArg)
         {
+            if (str.NullOrEmpty())
+            {
+                return;
+            }
+
             for (int i = 0; i < argsObjectsArg.Count; i++)
             {
                 object arg = argsObjectsArg[i];
