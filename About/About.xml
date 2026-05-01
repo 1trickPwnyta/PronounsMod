@@ -8,9 +8,11 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<description><![CDATA[<size=18px><color=#5aa9d6>Description</color></size>
+
 Now your colonists can have pronouns! And by clicking the pronouns box in a pawn's Bio tab, you can change them to pretty much whatever you want.
 
 <size=18px><color=#5aa9d6>Known issues</color></size>
+
 Some pronouns (such as they/them) use the plural form of verbs. For example, "She is eating without a table" becomes "They <i>are</i> eating without a table". Unfortunately, the game is not structured in a way that makes changing these verb forms very simple. As such, pronouns that use plural verbs will only use the correct verb form in certain situations, and even then, only when playing in English.
 
 ________________________________________________
