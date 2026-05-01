@@ -3,7 +3,7 @@
 	<name>Pronouns!</name>
 	<author>1trickPwnyta</author>
 	<packageId>pronounsmod.1trickPwnyta</packageId>
-	<modVersion>1.0.2</modVersion>
+	<modVersion>1.0.3</modVersion>
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
@@ -16,10 +16,13 @@ Some pronouns (such as they/them) use the plural form of verbs. For example, "Sh
 ________________________________________________
 
 <size=18px><color=#5aa9d6>Updates</color></size>
+
+04/30/2026: Apply pronouns to all races with humanlike intelligence
 11/27/2025: Fix bug with refugee join offer acceptance letter
 06/27/2025: Added compatibility with non-binary pawns (from mods) so they don't default to he/him
 
 <size=18px><color=#5aa9d6>Credits</color></size>
+
   &#8226; Mod icon: twitter.com/mouse_draws
 	]]></description>
 	<url>https://github.com/1trickPwnyta/PronounsMod</url>
